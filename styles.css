@@ -73,7 +73,10 @@ nav a {
      - Change the color to #ffffff
 --------------------------------------------------------------- */
 
-
+nav a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
 
 /* ---------------------------------------------------------------
    EXERCISE 6 — Main Content Area
