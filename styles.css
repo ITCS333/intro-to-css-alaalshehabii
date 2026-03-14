@@ -189,7 +189,13 @@ blockquote {
      - Add 10px margin on the top only
 --------------------------------------------------------------- */
 
-
+cite {
+  display: block;
+  text-align: right;
+  font-size: 0.9rem;
+  color: #777777;
+  margin-top: 10px;
+}
 
 /* ---------------------------------------------------------------
    EXERCISE 13 — Button Link
