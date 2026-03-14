@@ -60,7 +60,12 @@ body {
 --------------------------------------------------------------- */
 
 
-
+nav a {
+  color: #f39c12;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 1rem;
+}
 /* ---------------------------------------------------------------
    EXERCISE 5 — Navigation Link Hover State
    Target the hover state of <a> tags inside <nav> and:
