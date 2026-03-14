@@ -226,7 +226,10 @@ cite {
      - Add a smooth transition: all 0.3s ease
 --------------------------------------------------------------- */
 
-
+.btn:hover {
+  background-color: #f39c12;
+  transition: all 0.3s ease;
+}
 
 /* ---------------------------------------------------------------
    EXERCISE 15 — Footer
