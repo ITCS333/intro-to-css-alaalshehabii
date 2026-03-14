@@ -101,7 +101,11 @@ main {
      - Add 8px of padding on the bottom only
 --------------------------------------------------------------- */
 
-
+h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #f39c12;
+  padding-bottom: 8px;
+}
 
 /* ---------------------------------------------------------------
    EXERCISE 8 — Intro Paragraph
